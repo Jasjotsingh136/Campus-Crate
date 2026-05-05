@@ -14,3 +14,8 @@ trustworthy, and campus-specific exchange system that can streamline transaction
 After that ,
 
 we published and circulated a google form. We recorded 123 responses where all the survey responses were filled by the end-user i.e. people belonging to different domains for holistic and well-distributed survey results.
+
+
+
+the link for the live website 
+https://campus-crate-beta.vercel.app/
